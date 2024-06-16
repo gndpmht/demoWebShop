@@ -1,0 +1,29 @@
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+
+# Node modules (installed packages)
+node_modules
+
+# Cypress generated files and folders
+.report/
+.mochawesome/
+
+# Local .env files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+.vscode/
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+out/
